@@ -1,2 +1,3 @@
-# privacy-preserving-computer-vision.github.io
-Privacy Preserving Computer Vision: Privacy for Vision &amp; Imaging
+# Privacy-Preserving Computer Vision: Privacy for Vision & Imaging
+
+This repo has the source code for the Privacy-Preserving Computer Vision
